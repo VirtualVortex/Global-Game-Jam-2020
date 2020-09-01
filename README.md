@@ -1,7 +1,7 @@
 # Global-Game-Jam-2020
 This repository contains the game the team I was in created. 
 
-Character Art and Animations - (pixel art) Gem @gemmitygem 
+Character Art and Animations - (Character arm and rover art) Gem @gemmitygem 
 
 (UI, Rover art and Background art) - Kim 
 
